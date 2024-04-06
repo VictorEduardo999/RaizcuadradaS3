@@ -23,8 +23,9 @@ def main():
             break
         else:
             print("Por favor, escoja una opción valida.")
+            os.system("cls")
 if __name__ == "__main__":
     main()
-
+   
 
 
